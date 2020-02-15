@@ -1,0 +1,26 @@
+<annotation>
+	<folder>teclado</folder>
+	<filename>28.jpg</filename>
+	<path>C:\Users\almir\Pictures\base\teclado\28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>33</ymin>
+			<xmax>582</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
